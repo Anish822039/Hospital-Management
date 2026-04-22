@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 Hospital Management System (HMS)
 
 A secure, role-based, full-stack web application for internal hospital operations.
@@ -241,3 +242,6 @@ Use **Let's Encrypt** (certbot) or your hospital's SSL certificate.
 | Resolve Complaints   | ✅    | ❌     | ❌           | ❌    |
 | Doctor Profiles      | ✅    | ❌     | ❌           | ❌    |
 | System Settings      | ✅    | ❌     | ❌           | ❌    |
+=======
+# Hospital-Management
+>>>>>>> 47767a9c99a56537b54005794230e19f8ec191d4
